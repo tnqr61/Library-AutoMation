@@ -10,5 +10,4 @@ to ensure that other users can see that the table is full when they sit at a tab
 First client side is web side, second side is mobile app side and last side is cmd (windows) side.
                                                                  <p align="center">
  UI SHOWCASE
-</p>
-                                                     ![Library APP](Library-AUTOMATİON.png)
+</p> ![Library APP](Library-AUTOMATİON.png)
