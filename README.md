@@ -8,7 +8,7 @@ The main purpose of the project is to allow people who come to the library to ch
 to ensure that other users can see that the table is full when they sit at a table. 
 
 First client side is web side, second side is mobile app side and last side is cmd (windows) side<br>
-WEB CLİENT SİDE =https://github.com/omergny03/React-Projects/tree/main/Client-Server%20Project
+WEB CLİENT SİDE =https://github.com/omergny03/React-Projects/tree/main/Client-Server%20Project <br>
 DESKTOP CLİENT SİDE =https://github.com/yarenyazar/library-automation<p align="center">
   UI SHOWCASE</p>
                                                       ![Library APP](Library-AUTOMATİON.png).
